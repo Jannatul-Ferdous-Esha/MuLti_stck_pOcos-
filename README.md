@@ -1,0 +1,1 @@
+PCOS is a complex disorder in women with unclear causes. Early diagnosis is crucial for better health outcomes. Machine Learning models offer fast, cost-effective detection. This work suggests a multi-stacking model combining various classifiers for accurate identification.
